@@ -1,4 +1,10 @@
 # *K*-fold-*m*-step Forward Cross-validation (*km*FCV) for Materials Discovery
+
+Zheng Xiong and Jianjun Hu
+
+### Department of Computer Science & Engineering
+### University of South Carolina
+
 *K*-fold-*m*-step forward cross-validation is a new approach of evaluating extrapolation performance in materials property prediction. THe standard *k*-fold cross-validation falls short on evaluating the prediction performances of models in screening novel materials with desirable properties, wihch usually lie outside the domain of known materials. This project provides a comprehensive benchmarks studies on the extrapolation performances of a variety of prediction models on materials properties. Our results show even though current machine learning models can achieve good results when evaluated with standard cross-validation, their extrapolation power is actually very low as shown by our proposed *km*FCV evaluation method and the proposed extrapolation accuracy.
 
 ##  Prerequisites
